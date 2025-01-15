@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Creating a web-based image background removal tool 
 - 🌱 I’m currently learning: AWS Cloud Practitioner 
-- 🤔 I’m looking for help with: My current project I'm working on 
+- 🤔 I’m looking for help with: The current project I'm working on 
 - 💬 Ask me: About coding 
 - 📫 How to reach me: Via Email or on LinkedIn
 - ⚡ Fun fact: I like Watching UFC  
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 -Optimize performance and streamline development workflows.
 -Create intuitive UI/UX designs for enhanced user engagement.
 
-📫 How to reach me: [Email] (Shashank201011@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shashank-ravikumar/) | [Portfolio] (https://shashankravikumar.vercel.app)
+📫 How to reach me: Shashank201011@gmail.com | [LinkedIn](https://www.linkedin.com/in/shashank-ravikumar/) |  https://shashankravikumar.vercel.app
